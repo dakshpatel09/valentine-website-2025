@@ -24,8 +24,8 @@ const CONFIG = {
         first: {
             text: "Do you love me?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "YES! I love you so so much! ❤️"           // Secret hover message
+            noBtn: "No choice babe😜",                                               // Text for "No" button
+            secretAnswer: "YES! Ofc I love you so so much! ❤️"           // Secret hover message
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2026? 🌹", // The big question!
+            text: "Will you be my Valentine today and forever? 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -42,16 +42,16 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me this much?? 🥰💝",  // Shows when they go past 5000%
+        extreme: "7 Years and counting... 🥰",  // Shows when they go past 5000%
         high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
         normal: "And beyond! 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world to have you Jheelu! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and loads of kisses, miss you so much!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        title: "You've made me the happiest man since 2017. ❤️",
+        message: "Counting days until I meet you again! Happy Valentines Baba! ",
+        emojis: "💖💋❤️"  // These will bounce around
     },
 
     // Color scheme for the website
